@@ -9,8 +9,11 @@
 
 The goal of this project was to build a **deep learning-powered steganography system** to hide copyright messages inside images. The core idea was inspired by:
 
-- 🧠 [SteganoGAN (Zhang et al., 2019)](https://arxiv.org/abs/1901.03892)
-- 🧠 VidaGAN (2021), particularly its use of **MSE targeting** and **error correction**
+- 🧠 [SteganoGAN (Zhang et al., 2019)](https://arxiv.org/abs/1901.03892)  
+  *Zhang, X., Liu, S., Fu, Y., et al. (2019). "SteganoGAN: High Capacity Image Steganography with GANs."*
+
+- 🧠 [VidaGAN (Yildirim et al., 2021)](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.13177)  
+  *Yildirim, H., Kose, N., & Kurt, M. (2021). "VidaGAN: A Video Steganography Algorithm Based on 3D Convolutional Neural Networks and GANs", IET Image Processing.*
 
 I aimed to create a robust system that:
 - Embeds messages into cover images invisibly
